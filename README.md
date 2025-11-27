@@ -1,6 +1,6 @@
-# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 10-11-2025
+### DATE: 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,14 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/fc42d1b3-f83c-4fff-bc55-e0cb62764593)
+
+
 
 ### Output:
-![ezgif-52d9e531b02261](https://github.com/user-attachments/assets/dcc65457-964b-40e5-9ea4-cb31db1461b4)
-![alt text](<Axial Turbine Wheel v1.png>)
+![image](https://github.com/user-attachments/assets/30daf0eb-4db0-4214-9c9d-14e9dacf16f8)
+
 
 ### Name: JUDE CLEMENT JOSE G
 ### Register Number: 212224230109
-
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
